@@ -1,0 +1,7 @@
+requests
+pandas
+datetime
+plotly
+os
+logging
+scrapy
