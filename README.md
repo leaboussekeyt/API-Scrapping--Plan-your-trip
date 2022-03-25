@@ -18,10 +18,13 @@ As this is a project focusing on API and Web Scraping, there's no need to downlo
 ## Pre-requisites
 
 Dependencies
+
 * The source code is written in Python 3.
 * The python packages can be installed with pip : pip3 install -R requirements.txt
 
+
 API
+
 * An API key is needed to use the openweather API, mine is encoded as it is a free API, if however for any reason the key expires then you would need to request a new one on https://openweathermap.org/api 
 
 # Usage
