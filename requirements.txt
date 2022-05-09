@@ -5,3 +5,4 @@ plotly
 os
 logging
 scrapy
+kaleido
